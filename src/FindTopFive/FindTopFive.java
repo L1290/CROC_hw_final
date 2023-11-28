@@ -20,12 +20,7 @@ public class FindTopFive {
         //Считаем сумму продаж для каждого продавца и заносим в HashMap
         var sellerSales = new HashMap<Integer, Integer>(); //(sellerId, amount)
         for(Sale s: saleList) {
-            int sellerId = s.getSellerId();
-            int amount = s.getAmount();
-            if(sellerSales.containsKey(sellerId)){
-                amount += sellerSales.get(sellerId);
-            }
-            sellerSales.put(sellerId, amount);
+            sellerSales.merge(s.getSellerId(),s.getAmount(),Integer::sum); //создает ключ или прибавляет значение к существубщему
         }
 
         //Ищем топ 5 и собираем в topSellers
@@ -49,12 +44,7 @@ public class FindTopFive {
         //Сумма проданных товаров для каждой даты
         var dateSales = new HashMap<Date, Integer>(); //(Date, amount)
         for(Sale s: saleList) {
-            Date date = s.getSaleDate();
-            int amount = s.getAmount();
-            if(dateSales.containsKey(date)){
-                amount += dateSales.get(date);
-            }
-            dateSales.put(date, amount);
+            dateSales.merge(s.getSaleDate(),s.getAmount(),Integer::sum); //создает ключ или прибавляет значение к существубщему
         }
 
         //Топ 5 дат
