@@ -1,0 +1,68 @@
+[
+  {
+    "sellerId": 0,
+    "productId": 7,
+    "price": 123,
+    "amount": 432
+  },
+  {
+    "sellerId": 2,
+    "productId": 6,
+    "price": 543,
+    "amount": 412
+  },
+  {
+    "sellerId": 1,
+    "productId": 5,
+    "price": 32,
+    "amount": 78
+  },
+  {
+    "sellerId": 5,
+    "productId": 4,
+    "price": 1256,
+    "amount": 4323
+  },
+  {
+    "sellerId": 3,
+    "productId": 3,
+    "price": 12,
+    "amount": 4
+  },
+  {
+    "sellerId": 4,
+    "productId": 2,
+    "price": 65,
+    "amount": 126
+  },
+  {
+    "sellerId": 7,
+    "productId": 1,
+    "price": 654,
+    "amount": 234
+  },
+  {
+    "sellerId": 8,
+    "productId": 0,
+    "price": 786,
+    "amount": 98
+  },
+  {
+    "sellerId": 6,
+    "productId": 4,
+    "price": 43,
+    "amount": 56
+  },
+  {
+    "sellerId": 1,
+    "productId": 6,
+    "price": 800,
+    "amount": 43
+  },
+  {
+    "sellerId": 5,
+    "productId": 2,
+    "price": 185,
+    "amount": 292
+  }
+]

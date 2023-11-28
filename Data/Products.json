@@ -1,0 +1,30 @@
+[
+  {
+    "id": 0,
+    "productName": "Banana"
+  },
+  {
+    "id": 1,
+    "productName": "Pineapple"
+  },
+  {
+    "id": 2,
+    "productName": "Pear"
+  },
+  {
+    "id": 4,
+    "productName": "Peach"
+  },
+  {
+    "id": 5,
+    "productName": "Apple"
+  },
+  {
+    "id": 6,
+    "productName": "Mango"
+  },
+  {
+    "id": 7,
+    "productName": "Grape"
+  }
+]

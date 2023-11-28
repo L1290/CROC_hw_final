@@ -1,0 +1,47 @@
+[
+  {
+    "sellerId": 0,
+    "sellerLastName": "Bobson",
+    "sellerFirstName": "Bob"
+  },
+  {
+    "sellerId": 1,
+    "sellerLastName": "Walker",
+    "sellerFirstName": "Denis"
+  },
+  {
+    "sellerId": 2,
+    "sellerLastName": "Smith",
+    "sellerFirstName": "Angela"
+  },
+  {
+    "sellerId": 3,
+    "sellerLastName": "Dickens",
+    "sellerFirstName": "Rosemary"
+  },
+  {
+    "sellerId": 4,
+    "sellerLastName": "Leblanc",
+    "sellerFirstName": "Guy"
+  },
+  {
+    "sellerId": 5,
+    "sellerLastName": "Mccullough",
+    "sellerFirstName": "Jordan"
+  },
+  {
+    "sellerId": 6,
+    "sellerLastName": "Douglas",
+    "sellerFirstName": "Everett"
+  },
+  {
+    "sellerId": 7,
+    "sellerLastName": "Bean",
+    "sellerFirstName": "Clayton"
+  },
+  {
+    "sellerId": 8,
+    "sellerLastName": "Proctor",
+    "sellerFirstName": "Leona"
+  }
+]

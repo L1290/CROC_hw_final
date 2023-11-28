@@ -1,0 +1,79 @@
+[
+  {
+    "saleId": 0,
+    "sellerId": 0,
+    "productId": 7,
+    "amount": "30",
+    "saleDate": "2021-06-02"
+  },
+  {
+    "saleId": 1,
+    "sellerId": 2,
+    "productId": 6,
+    "amount": "456",
+    "saleDate": "2023-12-01"
+  },
+  {
+    "saleId": 2,
+    "sellerId": 1,
+    "productId": 5,
+    "amount": "3",
+    "saleDate": "2022-11-15"
+  },
+  {
+    "saleId": 3,
+    "sellerId": 5,
+    "productId": 4,
+    "amount": "51",
+    "saleDate": "2023-08-23"
+  },
+  {
+    "saleId": 4,
+    "sellerId": 3,
+    "productId": 3,
+    "amount": "34",
+    "saleDate": "2023-11-17"
+  },
+  {
+    "saleId": 5,
+    "sellerId": 4,
+    "productId": 2,
+    "amount": "4",
+    "saleDate": "2023-02-01"
+  },
+  {
+    "saleId": 6,
+    "sellerId": 7,
+    "productId": 1,
+    "amount": "304",
+    "saleDate": "2023-11-17"
+  },
+  {
+    "saleId": 7,
+    "sellerId": 8,
+    "productId": 0,
+    "amount": "4560",
+    "saleDate": "2023-09-09"
+  },
+  {
+    "saleId": 8,
+    "sellerId": 6,
+    "productId": 4,
+    "amount": "1234",
+    "saleDate": "2023-04-15"
+  },
+  {
+    "saleId": 9,
+    "sellerId": 1,
+    "productId": 6,
+    "amount": "4560",
+    "saleDate": "2023-09-09"
+  },
+  {
+    "saleId": 10,
+    "sellerId": 5,
+    "productId": 2,
+    "amount": "1234",
+    "saleDate": "2023-04-15"
+  }
+]
