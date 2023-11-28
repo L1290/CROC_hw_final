@@ -1,34 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="33bbeb2c-c4a8-4c90-90bd-ce24bdbb58ad" name="Changes" comment="first">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/fasterxml_jackson_core.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/fasterxml_jackson_core_annotations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/fasterxml_jackson_core_databind.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/fasterxml_jackson_dataformat_xml.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CROC_hw_final.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/Products.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/Sales.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/Sellers.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/Stock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/TopFiveDates.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/TopFiveSellers.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/jackson-dataformat-xml-2.13.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/stax2-api-4.2.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/woodstox-core-6.2.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FindTopFive/FindTopFive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JsonReader/JsonReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Model/Sale.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Model/Seller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/XmlWriter/XmlWriter.java" afterDir="false" />
-    </list>
+    <list default="true" id="33bbeb2c-c4a8-4c90-90bd-ce24bdbb58ad" name="Changes" comment="first" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,6 +52,14 @@
       <option name="presentableId" value="Default" />
       <updated>1700885550097</updated>
     </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1701179221013</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701179221013</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
